@@ -1,0 +1,210 @@
+
+					MATRIZES
+	
+1 -- Programa que imprima os dados da matriz abaixo na forma como ela está
+disposta: em linhas em colunas, com um espaço em branco entre uma coluna e outra e com
+uma quebra de linha '\n' entre as linhas:
+
+Entrada: 
+1 4 7
+2 5 8
+3 6 9
+
+Saída:
+1 4 7
+2 5 8
+3 6 9
+
+----------------------------------------------------------------------------------------
+
+2 -- Programa que imprima os dados da matriz abaixo de forma invertida,
+conforme o exemplo:
+
+Entrada:
+1 4 7
+2 5 8
+
+Saída:
+1 2
+4 5
+7 8
+
+----------------------------------------------------------------------------------------
+
+3 -- Programa que determine o somatório e a média de todos os elementos da
+matriz abaixo:
+
+Entrada:
+1 2 1
+3 7 2
+4 1 5
+
+Saída:
+Soma 26
+Média 2.888888
+
+----------------------------------------------------------------------------------------
+
+4 -- programa acima, faça outro que determine a contagem de elementos
+que estão acima da média
+
+Entrada: 
+1 2 1
+3 7 2
+4 1 5
+
+Saída:
+Soma.....: 26
+Média....: 2.888888
+Qtd>Média: 4
+
+----------------------------------------------------------------------------------------
+
+5 -- Programa que separe os valores pares e ímpares em duas matrizes
+diferentes:
+
+Entrada: 
+1 2 1
+3 7 2
+4 1 5
+
+Saída:
+
+Impares
+1 . 1
+3 7 .
+. 1 5
+
+Pares
+. 2 .
+. . 2
+4 . .
+
+----------------------------------------------------------------------------------------
+
+6 -- Programa que separe os valores pares e ímpares em dois vetores
+diferentes:
+
+Entrada:
+1 2 1
+3 7 2
+4 1 5
+
+Saída:
+Impares 1 1 3 7 1 5
+Pares 2 2 4
+
+----------------------------------------------------------------------------------------
+
+7 -- Programa em linguagem C que determine a soma de 2 matrizes A e B:
+Entrada:
+A    |  B
+3 4  |  8 9
+4 5  |  1 2
+7 3  |  1 7
+
+Saída:
+R
+11  13
+ 5  7
+ 8  10
+
+----------------------------------------------------------------------------------------
+
+8 -- Programa em C que determine a soma dos elementos da diagonal principal e da
+sua diagonal secundária de uma matriz 5x5.
+
+Entrada: 
+3 4 5 8 9
+4 5 9 1 2
+7 3 1 1 7
+6 3 9 8 0
+5 1 4 3 9
+
+Saída:
+Diag.Principal..: 26
+Diag.Secundaria.: 19
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+
+						 loops aninhados
+
+9 -- Programa em C que fazendo o uso de loops aninhados, imprima a desenho abaixo:
+
+Saída:
+
+*
+* *
+* * *
+* * * *
+
+----------------------------------------------------------------------------------------
+
+10 -- Programa em C que fazendo o uso de loops aninhados, imprima a desenho abaixo:
+
+Saída:
+
+* * * *
+* * * * *
+* * * * * *
+* * * * * * *
+
+----------------------------------------------------------------------------------------
+
+11 -- Programa em C que fazendo o uso de loops aninhados, imprima a desenho abaixo:
+
+Saída:
+
+**********
+* 	 *
+* 	 *
+**********
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+
+					MATRIZES
+
+12 -- Programa em C que determine a soma das colunas e das linhas da matriz abaixo:
+
+Entrada: 
+3 4 5
+4 5 9
+1 2 4
+7 2 2
+
+Saída:
+
+Soma Linhas:
+12
+18
+ 7
+11
+Soma Colunas:
+15 13 20
+
+
+----------------------------------------------------------------------------------------
+
+13 -- Programa em C que determine a matriz resultante do produto matricial de duas
+matrizes 2x3 e 3x2.
+Entrada:
+3 4 5	 3 4
+4 5 9	 4 5
+	 6 3
+
+Saída:
+55 47
+86 68
+
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+
+
+
+
